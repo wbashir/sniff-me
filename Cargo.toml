@@ -1,0 +1,9 @@
+[package]
+
+name = "sniff-me"
+version = "0.0.1"
+authors = [ "Warsame Bashir <warsame.bashir@bixinsoftware.com>" ]
+
+[[bin]]
+
+name = "main"
