@@ -1,4 +1,5 @@
 fn main(){
 
-	println("Welcome to sniff-me");
+	println!("Welcome to sniff-me");
+
 }
