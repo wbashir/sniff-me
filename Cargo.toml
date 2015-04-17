@@ -2,7 +2,7 @@
 
 name = "sniff-me"
 version = "0.0.1"
-authors = [ "Warsame Bashir <warsame.bashir@bixinsoftware.com>", "Franco Ross <franco.ross@ymail.com>"]
+authors = [ "Warsame Bashir <warsame.bashir@bixinsoftware.com>", "Franco Ross <franco.ross@ymail.com>" ]
 
 [[bin]]
 
